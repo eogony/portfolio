@@ -1,3 +1,8 @@
 body {
   background:white; 
 }
+
+#profileImage
+{
+  height: 50%;
+}
