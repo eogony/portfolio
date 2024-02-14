@@ -10,4 +10,6 @@ body {
 .profilePhoto
 {
   height: 50%;
+  top: 5;
+  position: relative;
 }
