@@ -7,9 +7,16 @@ body {
   height: 5%;
   width: 20%;
 }
+
 .profilePhoto
 {
   height: 50%;
   top: 5;
   position: relative;
+  align-content: center;
+}
+
+h1
+{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
